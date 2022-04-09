@@ -1,16 +1,5 @@
-# listview
+# UAS Mobile Programming
 
-A new Flutter project.
+flutter project : List using API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+jawaban no 1 dan 2 ada pada file [191011401784 - Dika Fahrozy.pdf](https://raw.githubusercontent.com/Dika-fahrozy/UAS_191011401784/main/191011401784%20-%20Dika%20Fahrozy.pdf)
